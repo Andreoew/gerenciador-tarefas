@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">Project Task Manager</h1>
   <img width="900px" alt="Project Task Manager" title="Project Task Manager" src="./tela-menu.png" />
-  <img width="500px" alt="Project Task Manager" title="Project Task Manager" src="./add-task.png" />
-  <img width="500px" alt="Project Task Manager" title="Project Task Manager" src="./add-task2.png" />
+  <img width="900px" alt="Project Task Manager" title="Project Task Manager" src="./add-task.png" />
+  <img width="900px" alt="Project Task Manager" title="Project Task Manager" src="./add-task2.png" />
   
 
   <!-- <p align="center">
